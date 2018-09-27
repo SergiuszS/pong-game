@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SergiuszS/pong-game#readme",
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "^4.16.3",
     "socket.io": "^2.1.1"
   }
